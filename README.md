@@ -15,7 +15,7 @@ This script automates the execution of the best benchmarking tools in the indust
 ## How to Run
 
 ```
-curl -sL yabs.sh | bash
+curl -sL https://ghproxy.moeio.org/https://raw.githubusercontent.com/isyekong/yet-another-bench-script/master/yabs.sh | bash
 ```
 
 or 
